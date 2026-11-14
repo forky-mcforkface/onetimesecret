@@ -131,7 +131,7 @@ gem 'truemail', '~> 3.3'
 gem 'familia', '~> 2.12'
 gem 'pg', '~> 1.6'
 gem 'sequel', '~> 5.0'
-gem 'sqlite3', '~> 2.0'
+gem 'sqlite3', '~> 2.10'
 
 # Redis/Valkey
 gem 'redis', '~> 5.4.0'
